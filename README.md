@@ -1,2 +1,4 @@
 # pmr_alis
-Components of ALIS article
+
+Possible graphic Components of ALIS article
+
